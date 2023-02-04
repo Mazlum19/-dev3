@@ -1,0 +1,61 @@
+
+.ortala{
+    margin-top:200px;
+    padding-left: 610px;
+    
+    margin-bottom: -20px;
+    }
+    /* Burada Google Logosu Ortalanmıştır */
+    .ortalasearch{
+        padding-left: 572.5px;
+        background-color:rgb(237, 235, 235);
+        margin-top: -20px;
+    }
+    /* Burada google arama imleci düzenlendi */
+    .ortalap{
+        text-align:center;
+        background-color:rgb(237, 235, 235);
+        padding-bottom: 4px;
+        margin-top: 0px;
+
+            }
+            /* Burada imlecin üzerinde kalan paragraf özellikleri düzenlendi. */
+            .input1{
+                background-color:rgb(237, 235, 235);
+                padding-left: 660px;
+                /* Burada imlecin ve yazının olduğu kısım arkaplan rengi belirlendi. */
+                
+                
+            }
+.arkaplan1{
+    background-color:rgb(106, 212, 212);
+    float: left;
+    text-align:center;
+    
+    margin-top: 2px;
+    padding-top: 10px;
+    width: 600px;
+    height: 74px;
+    /* Burada ve alt kısımlarda margin padding ve arkapla renklerine düzen verildi. */
+}
+.arkaplan2{
+    background-color: rgb(79, 190, 190);
+    margin-right:2px;
+    margin-left:2px;
+    margin-top: 2px;
+    padding:2px;
+    height: 80px;
+    text-align:center;
+    width: 245px;
+    float: left;
+}
+.arkaplan3{
+    background-color:rgb(48, 147, 147);
+    float:left;
+    text-align: center;
+    margin-top: 2px;
+    height: 83.5px;
+    
+    width: 667px;
+
+}
